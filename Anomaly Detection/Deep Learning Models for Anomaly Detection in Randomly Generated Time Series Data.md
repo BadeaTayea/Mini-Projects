@@ -1,4 +1,4 @@
-Notes: 
+Backlog Notes: 
 - Re-phrase all what follows
 - Collect Research Paper Resources on Desktop and Drive + Append to "Resources"
 - Comment on Graphs
@@ -11,9 +11,11 @@ Notes:
   - What models are next?
   - Testing models on well-known published time series datasets
 
-
-
 Subtitles:
+
+---
+
+
 - Abstract
 Time series anomalies can offer information relevant to critical situations facing various fields, from astronomy and finance to the IT and medical domains. However, detecting anomalies in time series data is particularly challenging due to the vague definition of anomalies and said data’s frequent lack of labels and highly complex temporal correlations. In this work, we employ a number of deep learning models with different architectures, and we train them on non-anomalous, randomly generated data sequences. The models are then used to predict/reconstruct the   
 
