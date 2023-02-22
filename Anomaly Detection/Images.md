@@ -1,1 +1,1 @@
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/BadeaTayea/Mini-Projects/blob/main/Anomaly%20Detection/Images/Data/Entire%20Test%20Data.png))
+https://github.com/BadeaTayea/Mini-Projects/blob/main/Anomaly%20Detection/Images/Data/Entire%20Test%20Data.png
