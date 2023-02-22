@@ -1,4 +1,5 @@
 Backlog Notes: 
+- Read the papers covered earlier, and highlight ideas, concepts, explanations, and important phrases to add here.  
 - Re-phrase all what follows
 - Collect Research Paper Resources on Desktop and Drive + Append to "Resources"
 - Comment on Graphs
@@ -10,6 +11,7 @@ Backlog Notes:
 - Upcoming Plans 
   - What models are next?
   - Testing models on well-known published time series datasets
+  - Variation of Used Dataset 
 
 Subtitles:
 
