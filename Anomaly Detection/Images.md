@@ -107,4 +107,4 @@
 <img align="center" width="300" src="https://github.com/BadeaTayea/Mini-Projects/blob/main/Anomaly%20Detection/Images/CNN/CNN%20Confusion%20Matrix.png">
 
 # Comparison
-<img align="center" width="300" src="https://github.com/BadeaTayea/Mini-Projects/blob/main/Anomaly%20Detection/Images/Comparison%20of%20Model%20Performance.png">
+<img align="center" width="500" src="https://github.com/BadeaTayea/Mini-Projects/blob/main/Anomaly%20Detection/Images/Comparison%20of%20Model%20Performance.png">
