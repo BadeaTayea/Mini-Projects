@@ -15,14 +15,6 @@
 
 
 # CNN AE
-<img align="center" width="300" src="https://github.com/BadeaTayea/Mini-Projects/blob/main/Anomaly%20Detection/Images/CNN%20AE/CNN%20AE%20-%20Anomalous%20Data%20Points.png">   
-
-<img align="center" width="300" src="https://github.com/BadeaTayea/Mini-Projects/blob/main/Anomaly%20Detection/Images/CNN%20AE/CNN%20AE%20-%20Anomalous%20Points%20Detection.png">   
-
-<img align="center" width="300" src="https://github.com/BadeaTayea/Mini-Projects/blob/main/Anomaly%20Detection/Images/CNN%20AE/CNN%20AE%20-%20Anomalous%20Regions.png"> 
-
-<img align="center" width="300" src="https://github.com/BadeaTayea/Mini-Projects/blob/main/Anomaly%20Detection/Images/CNN%20AE/CNN%20AE%20-%20Anomaly%20Detection.png">
-
 <img align="center" width="300" src="https://github.com/BadeaTayea/Mini-Projects/blob/main/Anomaly%20Detection/Images/CNN%20AE/CNN%20AE%20-%20Loss%20Curves.png">
 
 <img align="center" width="300" src="https://github.com/BadeaTayea/Mini-Projects/blob/main/Anomaly%20Detection/Images/CNN%20AE/CNN%20AE%20-%20MAE%20Loss.png">
@@ -31,9 +23,20 @@
 
 <img align="center" width="300" src="https://github.com/BadeaTayea/Mini-Projects/blob/main/Anomaly%20Detection/Images/CNN%20AE/CNN%20AE%20-%20Testing%20Data%20Reconstruction.png">
 
-<img align="center" width="300" src="https://github.com/BadeaTayea/Mini-Projects/blob/main/Anomaly%20Detection/Images/CNN%20AE/CNN%20AE%20-%20Testing%20Data%20Reconstruction.png">
-
 <img align="center" width="300" src="https://github.com/BadeaTayea/Mini-Projects/blob/main/Anomaly%20Detection/Images/CNN%20AE/CNN%20AE%20-%20Training%20Data%20Reconstruction.png">
+
+
+
+
+<img align="center" width="1000" src="https://github.com/BadeaTayea/Mini-Projects/blob/main/Anomaly%20Detection/Images/CNN%20AE/CNN%20AE%20-%20Anomaly%20Detection.png">
+
+<img align="center" width="300" src="https://github.com/BadeaTayea/Mini-Projects/blob/main/Anomaly%20Detection/Images/CNN%20AE/CNN%20AE%20-%20Anomalous%20Regions.png"> 
+ 
+
+<img align="center" width="1000" src="https://github.com/BadeaTayea/Mini-Projects/blob/main/Anomaly%20Detection/Images/CNN%20AE/CNN%20AE%20-%20Anomalous%20Data%20Points.png">   
+
+<img align="center" width="1000" src="https://github.com/BadeaTayea/Mini-Projects/blob/main/Anomaly%20Detection/Images/CNN%20AE/CNN%20AE%20-%20Anomalous%20Points%20Detection.png">  
+
 
 <img align="center" width="300" src="https://github.com/BadeaTayea/Mini-Projects/blob/main/Anomaly%20Detection/Images/CNN%20AE/Confusion%20Matrix.png">
 
