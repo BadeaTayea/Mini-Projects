@@ -87,3 +87,24 @@
 
 <img align="center" width="300" src="https://github.com/BadeaTayea/Mini-Projects/blob/main/Anomaly%20Detection/Images/LSTM/RNN%20(LSTM)%20Confusion%20Matrix.png">
 
+# CNN
+<img align="center" width="300" src="https://github.com/BadeaTayea/Mini-Projects/blob/main/Anomaly%20Detection/Images/CNN/CNN%20-%20Anomalous%20Data%20Points.png">
+
+<img align="center" width="300" src="https://github.com/BadeaTayea/Mini-Projects/blob/main/Anomaly%20Detection/Images/CNN/CNN%20-%20Anomalous%20Points%20Detection.png">
+
+<img align="center" width="300" src="https://github.com/BadeaTayea/Mini-Projects/blob/main/Anomaly%20Detection/Images/CNN/CNN%20-%20Anomalous%20Regions.png">
+
+<img align="center" width="300" src="https://github.com/BadeaTayea/Mini-Projects/blob/main/Anomaly%20Detection/Images/CNN/CNN%20-%20Anomaly%20Detection.png">
+
+<img align="center" width="300" src="https://github.com/BadeaTayea/Mini-Projects/blob/main/Anomaly%20Detection/Images/CNN/CNN%20-%20Loss%20Curves.png">
+
+<img align="center" width="300" src="https://github.com/BadeaTayea/Mini-Projects/blob/main/Anomaly%20Detection/Images/CNN/CNN%20-%20Testing%20Data%20Reconstruction.png">
+
+<img align="center" width="300" src="https://github.com/BadeaTayea/Mini-Projects/blob/main/Anomaly%20Detection/Images/CNN/CNN%20-%20Testing%20Data%20Reconstruction.png">
+
+<img align="center" width="300" src="https://github.com/BadeaTayea/Mini-Projects/blob/main/Anomaly%20Detection/Images/CNN/CNN%20-%20Training%20Data%20Reconstruction.png">
+
+<img align="center" width="300" src="https://github.com/BadeaTayea/Mini-Projects/blob/main/Anomaly%20Detection/Images/CNN/CNN%20Confusion%20Matrix.png">
+
+# Comparison
+<img align="center" width="300" src="https://github.com/BadeaTayea/Mini-Projects/blob/main/Anomaly%20Detection/Images/Comparison%20of%20Model%20Performance.png">
