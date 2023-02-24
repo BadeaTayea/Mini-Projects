@@ -49,7 +49,7 @@ This work is an attempt to utilize and test the effectiveness of several deep le
 
 ## Comparison:
 <p align="center">
-<img align="center" width="750" src="https://github.com/BadeaTayea/Mini-Projects/blob/main/Anomaly%20Detection/Images/Comparison%20of%20Model%20Performance.png">
+<img align="center" width="650" src="https://github.com/BadeaTayea/Mini-Projects/blob/main/Anomaly%20Detection/Images/Comparison%20of%20Model%20Performance.png">
 </p>
 
 ## Summary and Comments:
